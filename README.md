@@ -4,7 +4,7 @@ Este repositório contém a arquitetura proposta para uma loja virtual de café 
 
 ## Visão Geral da Arquitetura
 
-![Diagrama de Arquitetura]([link-para-seu-diagrama.png]([https://github.com/lzmattana/AWS/blob/main/AWS-Loja-Cafe.drawio](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=AWS-Loja-Cafe.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flzmattana%2FAWS%2Fmain%2FAWS-Loja-Cafe.drawio)))
+![Diagrama de Arquitetura]([[link-para-seu-diagrama.png]([https://github.com/lzmattana/AWS/blob/main/AWS-Loja-Cafe.drawio](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=AWS-Loja-Cafe.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flzmattana%2FAWS%2Fmain%2FAWS-Loja-Cafe.drawio))](https://viewer.diagrams.net/index.html?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=AWS-Loja-Cafe.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Flzmattana%2FAWS%2Fmain%2FAWS-Loja-Cafe.drawio#%7B%22pageId%22%3A%22Ht1M8jgEwFfnCIfOTk4-%22%7D))
 
 ## Componentes Principais
 
