@@ -1,12 +1,12 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="880" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QQk4dAQx20ExkPz3AdSX-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QQk4dAQx20ExkPz3AdSX-2" target="6D-WO8wmIOQ5Lj4E1bp6-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="380" y="420" as="targetPoint" />
+            <mxPoint x="400" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-22" value="Dinâmico" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQk4dAQx20ExkPz3AdSX-21" vertex="1" connectable="0">
@@ -15,14 +15,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-2" value="Cloud Front" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudfront;fillColor=#F58536;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="258.56" y="240" width="81.44" height="80" as="geometry" />
+          <mxGeometry x="278.56" y="280" width="81.44" height="80" as="geometry" />
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-3" value="Cliente" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#D2D3D3;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="110" y="130" width="70" height="70" as="geometry" />
+          <mxGeometry x="130" y="170" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="QQk4dAQx20ExkPz3AdSX-2" edge="1" source="6D-WO8wmIOQ5Lj4E1bp6-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="310.0000000000001" y="144.95652173913044" as="sourcePoint" />
+            <mxPoint x="330.0000000000001" y="184.95652173913044" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-15" value="Proteção" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQk4dAQx20ExkPz3AdSX-14" vertex="1" connectable="0">
@@ -32,8 +32,8 @@
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-1" target="QQk4dAQx20ExkPz3AdSX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="320" as="targetPoint" />
-            <mxPoint x="460" y="220" as="sourcePoint" />
+            <mxPoint x="460" y="360" as="targetPoint" />
+            <mxPoint x="480" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-17" value="Proteção&lt;div&gt;Anti-DDOS&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQk4dAQx20ExkPz3AdSX-16" vertex="1" connectable="0">
@@ -51,7 +51,7 @@
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-3" target="QQk4dAQx20ExkPz3AdSX-2" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="520" as="sourcePoint" />
+            <mxPoint x="350" y="560" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QQk4dAQx20ExkPz3AdSX-19" value="Estático" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QQk4dAQx20ExkPz3AdSX-18" vertex="1" connectable="0">
@@ -60,19 +60,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-1" value="AWS Shield" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.shield;" vertex="1" parent="1">
-          <mxGeometry x="540" y="90" width="80" height="100" as="geometry" />
+          <mxGeometry x="560" y="130" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-2" value="AWS WAF" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.waf;" vertex="1" parent="1">
-          <mxGeometry x="320" y="90" width="80" height="100" as="geometry" />
+          <mxGeometry x="340" y="130" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-3" value="Amazon S3" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="80" height="100" as="geometry" />
+          <mxGeometry x="120" y="390" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-4" target="6D-WO8wmIOQ5Lj4E1bp6-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-4" value="Amazon API Gateway" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.api_gateway;" vertex="1" parent="1">
-          <mxGeometry x="550" y="420" width="80" height="110" as="geometry" />
+          <mxGeometry x="570" y="460" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-5" target="6D-WO8wmIOQ5Lj4E1bp6-4">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-5" value="Amazon Cognito" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cognito;" vertex="1" parent="1">
-          <mxGeometry x="787" y="330" width="80" height="110" as="geometry" />
+          <mxGeometry x="807" y="370" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-8" target="6D-WO8wmIOQ5Lj4E1bp6-21">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-8" value="AWS Lambda" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.lambda;" vertex="1" parent="1">
-          <mxGeometry x="550" y="610.5" width="80" height="100" as="geometry" />
+          <mxGeometry x="570" y="650.5" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-10" target="6D-WO8wmIOQ5Lj4E1bp6-8">
           <mxGeometry relative="1" as="geometry" />
@@ -121,7 +121,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-10" value="AWS IAM" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.iam;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="358" y="620" width="42" height="81" as="geometry" />
+          <mxGeometry x="378" y="660" width="42" height="81" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-13" target="6D-WO8wmIOQ5Lj4E1bp6-8">
           <mxGeometry relative="1" as="geometry" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-13" value="Amazon CloudWatch" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.cloudwatch;" vertex="1" parent="1">
-          <mxGeometry x="340" y="750" width="80" height="110" as="geometry" />
+          <mxGeometry x="360" y="790" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-16" target="6D-WO8wmIOQ5Lj4E1bp6-8">
           <mxGeometry relative="1" as="geometry" />
@@ -143,10 +143,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-16" value="AWS X-Ray" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.xray;" vertex="1" parent="1">
-          <mxGeometry x="340" y="500" width="80" height="100" as="geometry" />
+          <mxGeometry x="360" y="540" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-21" value="Amazon DynamoDB" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.dynamodb;" vertex="1" parent="1">
-          <mxGeometry x="740" y="680" width="80" height="110" as="geometry" />
+          <mxGeometry x="760" y="720" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-24" target="6D-WO8wmIOQ5Lj4E1bp6-21">
           <mxGeometry relative="1" as="geometry" />
@@ -157,27 +157,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-24" value="AWS Key Management Service" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.key_management_service;" vertex="1" parent="1">
-          <mxGeometry x="740" y="465" width="80" height="120" as="geometry" />
+          <mxGeometry x="760" y="505" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-27" value="Amazon ElastiCache" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.elasticache;" vertex="1" parent="1">
-          <mxGeometry x="620" y="880" width="80" height="110" as="geometry" />
+          <mxGeometry x="640" y="920" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-30" target="6D-WO8wmIOQ5Lj4E1bp6-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-30" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" vertex="1" parent="1">
-          <mxGeometry x="820" y="880" width="78" height="78" as="geometry" />
+          <mxGeometry x="840" y="920" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6D-WO8wmIOQ5Lj4E1bp6-33" target="6D-WO8wmIOQ5Lj4E1bp6-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-33" value="AWS Step Functions" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.step_functions;" vertex="1" parent="1">
-          <mxGeometry x="980" y="864" width="80" height="110" as="geometry" />
+          <mxGeometry x="1000" y="904" width="80" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-35" value="Amazon SQS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.sqs;" vertex="1" parent="1">
-          <mxGeometry x="980" y="690" width="80" height="100" as="geometry" />
+          <mxGeometry x="1000" y="730" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-37" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;Arquitetura da Loja Virtual de Café na AWS&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Frontend&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial; font-size: 16px;&quot;&gt;&lt;b&gt;- Amazon S3&lt;/b&gt;&lt;/i&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;: Para hospedar os arquivos estáticos do site (HTML, CSS, JavaScript).&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;i&gt;&lt;b&gt;- Amazon CloudFront&lt;/b&gt;&lt;/i&gt;: Como CDN para distribuir o conteúdo globalmente com baixa latência.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- AWS WAF&lt;/i&gt;&lt;/b&gt;: Para proteção contra ataques web comuns.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Backend&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon API Gateway**: Para criar, publicar e gerenciar APIs RESTful.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **AWS Lambda**: Para executar o código do backend sem provisionar servidores.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon EventBridge**: Para orquestrar eventos entre serviços.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;## Banco de Dados&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon DynamoDB**: Como banco de dados NoSQL para armazenar informações de produtos e pedidos.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon ElastiCache**: Para cache de sessão e melhoria de performance.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;## Segurança&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **AWS Identity and Access Management (IAM)**: Para gerenciar acessos e permissões.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon Cognito**: Para autenticação e autorização de usuários.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **AWS KMS**: Para gerenciamento de chaves de criptografia.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;## Monitoramento e Logs&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon CloudWatch**: Para monitoramento e logs de todos os serviços.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **AWS X-Ray**: Para análise e depuração de aplicações distribuídas.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;## Processamento de Pagamentos&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **AWS Step Functions**: Para orquestrar o fluxo de processamento de pedidos.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon SQS**: Como fila de mensagens para desacoplar componentes.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;## Considerações Adicionais&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Multi-AZ Deployment**: Para alta disponibilidade.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Auto Scaling**: Para escalabilidade automática baseada na demanda.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **AWS Shield**: Para proteção contra DDoS.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6D-WO8wmIOQ5Lj4E1bp6-37" value="&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Arquitetura da Loja Virtual de Café na AWS&lt;/b&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Frontend&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;- Amazon S3&lt;/b&gt;&lt;/i&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;: Para hospedar os arquivos estáticos do site (HTML, CSS, JavaScript).&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;i&gt;&lt;b&gt;- Amazon CloudFront&lt;/b&gt;&lt;/i&gt;: Como CDN para distribuir o conteúdo globalmente com baixa latência.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- AWS WAF&lt;/i&gt;&lt;/b&gt;: Para proteção contra ataques web comuns.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size: 18px; text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Backend&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- Amazon API Gateway:&lt;/i&gt;&lt;/b&gt; Para criar, publicar e gerenciar APIs RESTful.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;i&gt;&lt;b&gt;- AWS Lambda: &lt;/b&gt;&lt;/i&gt;Para executar o código do backend sem provisionar servidores.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- Amazon EventBridge:&lt;/i&gt;&lt;/b&gt; Para orquestrar eventos entre serviços.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Banco de Dados&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;- **Amazon DynamoDB**: Como banco de dados NoSQL para armazenar informações de produtos e pedidos.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;- **Amazon ElastiCache**: Para cache de sessão e melhoria de performance.&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Segurança&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;i&gt;&lt;b&gt;- AWS Identity and Access Management (IAM):&lt;/b&gt;&lt;/i&gt; Para gerenciar acessos e permissões.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;i&gt;&lt;b&gt;- Amazon Cognito:&lt;/b&gt;&lt;/i&gt; Para autenticação e autorização de usuários.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- AWS KMS: &lt;/i&gt;&lt;/b&gt;Para gerenciamento de chaves de criptografia.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;b style=&quot;font-size: 18px; background-color: initial;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Monitoramento e Logs&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- Amazon CloudWatch:&lt;/i&gt;&lt;/b&gt; Para monitoramento e logs de todos os serviços.&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- AWS X-Ray:&lt;/i&gt;&lt;/b&gt; Para análise e depuração de aplicações distribuídas.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;br&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Processamento de Pagamentos&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;- AWS Step Functions:&lt;/b&gt; Para orquestrar o fluxo de processamento de pedidos.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;- Amazon SQS:&lt;/b&gt; Como fila de mensagens para desacoplar componentes.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Considerações Adicionais&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;&lt;i&gt;- Multi-AZ Deployment:&lt;/i&gt;&lt;/b&gt; Para alta disponibilidade.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;- Auto Scaling:&lt;/b&gt; Para escalabilidade automática baseada na demanda.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;&lt;b&gt;- AWS Shield:&lt;/b&gt; Para proteção contra DDoS.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1180" y="150" width="380" height="860" as="geometry" />
         </mxCell>
       </root>
